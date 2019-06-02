@@ -1,0 +1,7 @@
+PUT http://localhost:7071/api/circuit/test/failure
+Content-Type: application/json
+
+{
+    "RequestId": "1bd2a3fb-42da-4919-bdb3-62268f07da90",
+    "InstanceId": "test"
+}
